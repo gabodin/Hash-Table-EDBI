@@ -1,0 +1,4 @@
+/home/ianbarreto/Documentos/EDB1/pp4/source_STUDENTS/build/CMakeFiles/rebuild_cache.dir
+/home/ianbarreto/Documentos/EDB1/pp4/source_STUDENTS/build/CMakeFiles/edit_cache.dir
+/home/ianbarreto/Documentos/EDB1/pp4/source_STUDENTS/build/CMakeFiles/run_tests.dir
+/home/ianbarreto/Documentos/EDB1/pp4/source_STUDENTS/build/CMakeFiles/driver_hash.dir
